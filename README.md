@@ -9,11 +9,11 @@ Pragati Singh - https://www.linkedin.com/in/erpragatisingh
   <img alt="Follow me on LinkedIn"
        src="http://www.sheerframe.co.uk/Content/svg/icon-linkedin.svg" />
 </a>
-<a href="https://play.google.com/store/apps/developer?id=Tomasz+Morcinek">
+<a href="https://play.google.com/store/apps/dev?id=8601180088047016168&hl=en">
   <img alt="Checkout my Applications in Google Play"
-       src="https://play.google.com/store/apps/dev?id=8601180088047016168&hl=en" />
+       src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png" />
 </a>
-
+ 
 ## Description ##
 
 ExoPlayer is an application level media player for Android. It provides an
