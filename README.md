@@ -1,4 +1,18 @@
 # ExoPlayer Readme #
+Pragati Singh - https://www.linkedin.com/in/erpragatisingh
+
+<a href="https://plus.google.com/+erpragatisingh">
+  <img alt="Follow me on Google+"
+       src="https://www.seeklogo.net/wp-content/uploads/2015/09/new-google-favicon-logo.png" />
+</a>
+<a href="https://www.linkedin.com/in/erpragatisingh">
+  <img alt="Follow me on LinkedIn"
+       src="http://www.sheerframe.co.uk/Content/svg/icon-linkedin.svg" />
+</a>
+<a href="https://play.google.com/store/apps/developer?id=Tomasz+Morcinek">
+  <img alt="Checkout my Applications in Google Play"
+       src="https://play.google.com/store/apps/dev?id=8601180088047016168&hl=en" />
+</a>
 
 ## Description ##
 
